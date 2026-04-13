@@ -1,0 +1,26 @@
+{
+    "name": "Fethur Rabbani Tefeul",
+    "short_name": "Fethur Rabbani",
+    "description": "Abdulkadir Geylani Hz. Fethur Rabbani'den 377 hikmetli pasajla tefeul edin.",
+    "start_url": "/fethur-rabbani/",
+    "scope": "/fethur-rabbani/",
+    "display": "standalone",
+    "background_color": "#064e3b",
+    "theme_color": "#064e3b",
+    "orientation": "portrait",
+    "lang": "tr",
+    "categories": ["books", "lifestyle"],
+    "icons": [
+          {
+                  "src": "icon-192.png",
+                  "sizes": "192x192",
+                  "type": "image/png"
+          },
+          {
+                  "src": "icon-512.png",
+                  "sizes": "512x512",
+                  "type": "image/png",
+                  "purpose": "any maskable"
+          }
+    ]
+}

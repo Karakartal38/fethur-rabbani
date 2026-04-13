@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pentanova.fethurrabbani",
+    "sha256_cert_fingerprints": [
+      "38:57:B2:33:B3:64:97:C7:AD:E9:BA:91:28:02:EB:B2:53:9F:81:72:7B:79:65:02:AD:6B:1B:9A:43:57:50:AE"
+    ]
+  }
+}]
